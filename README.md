@@ -63,10 +63,12 @@ I am a graduate of **Texas State University**, where I earned a Master of Scienc
 
 ---
 
-# Contact  
-- **GitHub:** https://github.com/ifeanyinwanegbo  
-- **LinkedIn:** *https://www.linkedin.com/in/ifeanyinwanegbo/*  
-- **Email:** *ifeanyimart@gmail.com*  
+## Contact
+- **Portfolio:** https://github.com/ifeanyinwanegbo/tech-portfolio
+- **GitHub Profile:** https://github.com/ifeanyinwanegbo
+- **LinkedIn:** https://www.linkedin.com/in/ifeanyinwanegbo/
+- **Email:** ifeanyimart@gmail.com
+ 
 
 ---
 
