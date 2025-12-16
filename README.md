@@ -7,11 +7,11 @@ Welcome to my technical portfolio, a curated collection of the projects, systems
 
 ## Featured Projects
 
-### 🔹 Supply Chain Cost Optimization (Python)
+🔹 Supply Chain Cost Optimization (Python)
 
 Designed and implemented a constrained optimization model to minimize transportation costs across a multi-factory supply chain while satisfying capacity and demand constraints.
 
-#### What it does
+## What it does
 - Optimizes shipments from 2 factories to 3 customers
 - Enforces capacity limits and exact demand fulfillment
 - Solves using numerical optimization (SLSQP)
@@ -23,14 +23,14 @@ Designed and implemented a constrained optimization model to minimize transporta
 #### Code
 - [`optimize_supply_chain.py`](src/optimize/optimize_supply_chain.py)
 
-#### Results Summary
+**Results Summary**
 - All customer demand was met exactly while respecting factory capacity constraints
 - Optimization reduced total transportation cost to **657,494.94**
 - Factory B handled most shipments due to lower unit costs for C1 and C2
 - Model validated through successful local execution
 
 #### Sample Output
-```text
+
 Optimization successful
 
 Optimal shipment quantities (units):
@@ -49,7 +49,7 @@ Minimum total cost: 657,494.94
 
 ---
 
-## Upcoming Projects
+### Upcoming Projects
 
 > *(Projects currently under development — repositories will be added once completed.)*
 
@@ -68,7 +68,7 @@ Designed a scalable cloud architecture for analytics workloads.
 
 ---
 
-# 🛠️ Technical Skills  
+# 🛠️ Technical Skills
 
 ### **Programming & Data Tools**
 - Python, SQL, R  
