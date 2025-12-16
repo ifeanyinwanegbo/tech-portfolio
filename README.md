@@ -29,6 +29,7 @@ Designed and implemented a constrained optimization model to minimize transporta
 - Model was validated through successful local execution
 
 **Validation**
+
 The optimization model was executed locally and produced a feasible, optimal solution that satisfies all capacity and demand constraints.
 
 **Sample Output:**
@@ -54,6 +55,8 @@ C2: 200 / 200
 C3: 300 / 300
 
 Minimum total cost: 657,494.94
+
+
 
 > *(More projects coming soon — folders will be added as I upload them.)*
 
