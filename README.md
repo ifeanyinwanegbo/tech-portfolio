@@ -7,7 +7,7 @@ Welcome to my technical portfolio, a curated collection of the projects, systems
 
 ## Featured Projects
 
-🔹 Supply Chain Cost Optimization (Python)
+**🔹 Supply Chain Cost Optimization (Python)**
 
 Designed and implemented a constrained optimization model to minimize transportation costs across a multi-factory supply chain while satisfying capacity and demand constraints.
 
@@ -49,10 +49,8 @@ Minimum total cost: 657,494.94
 
 ---
 
-### Upcoming Projects
-
-> *(Projects currently under development — repositories will be added once completed.)*
-
+## Planned & In-Progress Projects
+> *(Projects currently under development. Repositories will be added as they are completed.)*
 
 ### 🔹 **End-to-End Data Engineering Pipeline**  
 Automated ingestion → transformation → storage pipeline using Python, SQL, and cloud tools.  
