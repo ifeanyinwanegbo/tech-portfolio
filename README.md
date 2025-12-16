@@ -22,10 +22,38 @@ Designed and implemented a constrained optimization model to minimize transporta
 **Code**
 - [`optimize_supply_chain.py`](src/optimize/optimize_supply_chain.py)
 
-**Result**
-- Model executed successfully
-- Optimal shipment quantities computed
-- Minimum total cost calculated and validated
+**Results Summary**
+- All customer demand was met exactly while respecting factory capacity constraints
+- Optimization reduced total transportation cost to **657,494.94**
+- Factory B handled most shipments due to lower unit costs for C1 and C2
+- Model was validated through successful local execution
+
+**Validation**
+The optimization model was executed locally and produced a feasible, optimal solution that satisfies all capacity and demand constraints.
+
+**Sample Output:**
+
+```text
+Optimization successful
+
+Optimal shipment quantities (units):
+A -> C1: 0.00
+A -> C2: 0.00
+A -> C3: 267.89
+B -> C1: 300.00
+B -> C2: 200.00
+B -> C3: 32.11
+
+Factory totals:
+Total from A: 267.89 / 500.00
+Total from B: 532.11 / 700.00
+
+Demand check:
+C1: 300 / 300
+C2: 200 / 200
+C3: 300 / 300
+
+Minimum total cost: 657,494.94
 
 > *(More projects coming soon — folders will be added as I upload them.)*
 
