@@ -6,6 +6,27 @@ Welcome to my technical portfolio, a curated collection of the projects, systems
 ---
 
 # Featured Projects  
+### 🔹 Supply Chain Cost Optimization (Python)
+
+Designed and implemented a constrained optimization model to minimize transportation costs across a multi-factory supply chain while satisfying capacity and demand constraints.
+
+**What it does**
+- Optimizes shipments from 2 factories to 3 customers
+- Enforces capacity limits and exact demand fulfillment
+- Solves using numerical optimization (SLSQP)
+
+**Tech used**
+- Python, NumPy, SciPy
+- Constrained optimization (SLSQP)
+
+**Code**
+- [`optimize_supply_chain.py`](src/optimize/optimize_supply_chain.py)
+
+**Result**
+- Model executed successfully
+- Optimal shipment quantities computed
+- Minimum total cost calculated and validated
+
 > *(More projects coming soon — folders will be added as I upload them.)*
 
 ### 🔹 **End-to-End Data Engineering Pipeline**  
