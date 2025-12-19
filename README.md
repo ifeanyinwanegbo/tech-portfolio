@@ -9,12 +9,14 @@ Welcome to my technical portfolio, a curated collection of the projects, systems
 
 **Analytics Engineering – Supply Chain Cost Optimization (Python)**
 
-Designed and implemented a constrained optimization model to minimize transportation costs across a multi-factory supply chain while satisfying capacity and demand constraints.
+Designed and implemented an operations analytics model that determines optimal shipment quantities from two factories to three customer regions by minimizing total logistics and production cost under real-world constraints. The model enforces exact demand fulfillment, factory capacity limits, non-negative flows, and nonlinear production cost functions, and solves the constrained optimization using SciPy’s SLSQP algorithm.
 
-## What it does
-- Optimizes shipments from 2 factories to 3 customers
-- Enforces capacity limits and exact demand fulfillment
-- Solves using numerical optimization (SLSQP)
+### What this project does
+- Models a two-factory, three-customer supply network with capacity-constrained production
+- Optimizes shipment flows to minimize combined shipping and nonlinear production costs
+- Enforces exact customer demand satisfaction and factory capacity limits
+- Uses constrained nonlinear optimization (SLSQP) to compute optimal flows
+- Outputs shipment plans, factory utilization, and minimum total cost
 
 #### Tech used
 - Python, NumPy, SciPy
