@@ -7,7 +7,7 @@ Welcome to my technical portfolio, a curated collection of the projects, systems
 
 ## Featured Projects
 
-**Analytics Engineering – Supply Chain Cost Optimization (Python)**
+### 🔹Analytics Engineering – Supply Chain Cost Optimization (Python)
 
 Designed and implemented an operations analytics model to determine optimal shipment quantities from two factories to three customer regions. The model minimizes total logistics and production cost under real-world constraints, enforcing exact demand fulfillment, factory capacity limits, non-negative flows, and nonlinear production cost functions using SciPy’s SLSQP algorithm.
 
@@ -73,10 +73,14 @@ Built an automated, script-driven data pipeline that ingests raw GPU pricing dat
 - Automated Markdown market summary generation
 
 **Outcome (Measured Results)**
-- Analyzed **6 GPU listings** across **NVIDIA and AMD**
-- Found **NVIDIA average price: $1,275.67**, **AMD average price: $732.33**
-- **83% of listings in stock**, indicating short-term supply stability
-- Generated a reusable market report (`market_summary.md`) automatically from code
+
+- Analyzed 6 GPU listings across NVIDIA and AMD
+- Found NVIDIA average price: $1,275.67, AMD average price: $732.33
+- 83% of listings in stock, indicating short-term supply stability
+- Generated a reusable market report (market_summary.md) automatically from code
+
+This pipeline is reusable and can be extended to larger datasets or scheduled data collection.
+
 
 **Why This Matters**
 Demonstrates real-world data engineering skills: modular design, automation, reproducibility, and translating raw market data into business-ready insights.
@@ -93,10 +97,6 @@ Demonstrates real-world data engineering skills: modular design, automation, rep
 
 ## Planned & In-Progress Projects
 > *(Projects currently under development. Repositories will be added as they are completed.)*
-
-### 🔹 **End-to-End Data Engineering Pipeline**  
-Automated ingestion → transformation → storage pipeline using Python, SQL, and cloud tools.  
-**Skills:** ETL, data modeling, orchestration, API integration.
 
 ### 🔹 **Machine Learning Classification System**  
 Built and evaluated predictive models for real-world decision-making.  
