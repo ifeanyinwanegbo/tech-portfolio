@@ -82,7 +82,7 @@ Built an automated, script-driven data pipeline that ingests raw GPU pricing dat
 This pipeline is reusable and can be extended to larger datasets or scheduled data collection.
 
 
-**Why This Matters**
+**Why This Matters:**
 
 Demonstrates real-world data engineering skills: modular design, automation, reproducibility, and translating raw market data into business-ready insights.
 
