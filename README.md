@@ -7,7 +7,7 @@ Welcome to my technical portfolio, a curated collection of the projects, systems
 
 ## Featured Projects
 
-**🔹 Supply Chain Cost Optimization (Python)**
+**Analytics Engineering – Supply Chain Cost Optimization (Python)**
 
 Designed and implemented a constrained optimization model to minimize transportation costs across a multi-factory supply chain while satisfying capacity and demand constraints.
 
