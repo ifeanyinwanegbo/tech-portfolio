@@ -53,10 +53,10 @@ Minimum total cost: 657,494.94
 
 ### 🔹 GPU Market Pulse — End-to-End Data Engineering & Analytics Pipeline
 
-**Problem**
+**Problem:**
 GPU prices and availability fluctuate rapidly, making it difficult to understand market trends, brand pricing gaps, and supply conditions from raw listings.
 
-**Solution**
+**Solution:**
 Built an automated, script-driven data pipeline that ingests raw GPU pricing data, cleans and standardizes it, computes pricing deviations and availability metrics, and generates a structured market report without manual intervention.
 
 **Tech Stack**
