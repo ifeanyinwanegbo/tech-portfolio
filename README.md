@@ -51,6 +51,47 @@ Minimum total cost: 657,494.94
 
 ---
 
+---
+
+### 🔹 GPU Market Pulse — End-to-End Data Engineering & Analytics Pipeline
+
+**Problem**
+GPU prices and availability fluctuate rapidly, making it difficult to understand market trends, brand pricing gaps, and supply conditions from raw listings.
+
+**Solution**
+Built an automated, script-driven data pipeline that ingests raw GPU pricing data, cleans and standardizes it, computes pricing deviations and availability metrics, and generates a structured market report without manual intervention.
+
+**Tech Stack**
+- Python (pandas)
+- Modular pipeline design (ingestion → processing → analytics → reporting)
+- Markdown reporting
+- Git / GitHub
+
+**What I Built**
+- Raw data ingestion from CSV sources
+- Data cleaning and normalization
+- Price deviation calculations (actual price vs MSRP)
+- Brand-level pricing and availability aggregation
+- Automated Markdown market summary generation
+
+**Outcome (Measured Results)**
+- Analyzed **6 GPU listings** across **NVIDIA and AMD**
+- Found **NVIDIA average price: $1,275.67**, **AMD average price: $732.33**
+- **83% of listings in stock**, indicating short-term supply stability
+- Generated a reusable market report (`market_summary.md`) automatically from code
+
+**Why This Matters**
+Demonstrates real-world data engineering skills: modular design, automation, reproducibility, and translating raw market data into business-ready insights.
+
+#### Code
+- [`load_gpu_prices.py`](src/ingestion/load_gpu_prices.py)
+- [`clean_gpu_prices.py`](src/processing/clean_gpu_prices.py)
+- [`analyze_gpu_market.py`](src/analytics/analyze_gpu_market.py)
+
+#### Output
+- [`market_summary.md`](docs/market_summary.md)
+---
+
 ## Planned & In-Progress Projects
 > *(Projects currently under development. Repositories will be added as they are completed.)*
 
