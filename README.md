@@ -51,8 +51,6 @@ Minimum total cost: 657,494.94
 
 ---
 
----
-
 ### 🔹 GPU Market Pulse — End-to-End Data Engineering & Analytics Pipeline
 
 **Problem**
@@ -84,12 +82,13 @@ Built an automated, script-driven data pipeline that ingests raw GPU pricing dat
 Demonstrates real-world data engineering skills: modular design, automation, reproducibility, and translating raw market data into business-ready insights.
 
 #### Code
-- [`load_gpu_prices.py`](src/ingestion/load_gpu_prices.py)
-- [`clean_gpu_prices.py`](src/processing/clean_gpu_prices.py)
-- [`analyze_gpu_market.py`](src/analytics/analyze_gpu_market.py)
+- [`load_gpu_prices.py`](https://github.com/ifeanyinwanegbo/gpu-market-pulse/blob/main/src/ingestion/load_gpu_prices.py)
+- [`clean_gpu_prices.py`](https://github.com/ifeanyinwanegbo/gpu-market-pulse/blob/main/src/processing/clean_gpu_prices.py)
+- [`analyze_gpu_market.py`](https://github.com/ifeanyinwanegbo/gpu-market-pulse/blob/main/src/analytics/analyze_gpu_market.py)
 
 #### Output
-- [`market_summary.md`](docs/market_summary.md)
+- [`market_summary.md`](https://github.com/ifeanyinwanegbo/gpu-market-pulse/blob/main/docs/market_summary.md)
+
 ---
 
 ## Planned & In-Progress Projects
