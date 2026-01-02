@@ -59,6 +59,10 @@ GPU prices and availability fluctuate rapidly, making it difficult to understand
 **Solution:**
 Built an automated, script-driven data pipeline that ingests raw GPU pricing data, cleans and standardizes it, computes pricing deviations and availability metrics, and generates a structured market report without manual intervention.
 
+### End-to-End Data Pipeline Architecture
+The diagram below illustrates the complete data flow of the GPU Market Pulse project, from raw data ingestion to analytics and reporting.
+![GPU Market Pulse Pipeline](diagrams/gpu_market_pipeline.png)
+
 **Tech Stack**
 - Python (pandas)
 - Modular pipeline design (ingestion → processing → analytics → reporting)
