@@ -66,6 +66,9 @@ The diagram below illustrates the complete data flow of the GPU Market Pulse pro
 
 ![GPU Market Pulse Pipeline](diagrams/gpu_market_pipeline.png)
 
+> This architecture reflects a vendor-agnostic market analytics pipeline and is designed to generalize across GPU manufacturers such as NVIDIA and AMD.
+
+
 **Tech Stack**
 - Python (pandas)
 - Modular pipeline design (ingestion → processing → analytics → reporting)
