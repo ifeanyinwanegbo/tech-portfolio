@@ -167,4 +167,4 @@ I am a graduate of **Texas State University**, where I earned a Master of Scienc
 
 ---
 
-### ⭐ Thank you for viewing my portfolio — more projects will be added soon!
+### ⭐ Thank you for viewing my portfolio.
