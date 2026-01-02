@@ -63,7 +63,8 @@ Built an automated, script-driven data pipeline that ingests raw GPU pricing dat
 
 The diagram below illustrates the complete data flow of the GPU Market Pulse project, from raw data ingestion to analytics and reporting.
 
-![GPU Market Pulse Pipeline](diagrams/gpu_market_pipeline.png)
+![GPU Market Pulse Pipeline](https://raw.githubusercontent.com/ifeanyinwanegbo/gpu-market-pulse/main/diagrams/gpu_market_pipeline.png)
+
 
 > This architecture reflects a vendor-agnostic market analytics pipeline and is designed to generalize across GPU manufacturers such as NVIDIA and AMD.
 
