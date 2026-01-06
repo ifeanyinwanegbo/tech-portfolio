@@ -49,6 +49,7 @@ Total from B: 532.11 / 700.00
 
 Minimum total cost: 657,494.94
 
+
 ---
 
 ### 🔹 GPU Market Pulse — End-to-End Data Engineering & Analytics Pipeline
@@ -101,6 +102,7 @@ Demonstrates real-world data engineering skills: modular design, automation, rep
 
 #### Output
 - [`market_summary.md`](https://github.com/ifeanyinwanegbo/gpu-market-pulse/blob/main/docs/market_summary.md)
+
 
 ---
 
