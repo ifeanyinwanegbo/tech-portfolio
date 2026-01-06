@@ -122,7 +122,7 @@ This project demonstrates how historical sales data can be transformed into accu
 - **Analytics:** Train and evaluate forecasting models
 - **Reporting:** Generate forecast plots and performance metrics
 
-### 💻 Code
+###  Code
 - **Pipeline Orchestration**  
   [`run_pipeline.py`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/src/run_pipeline.py)
 
@@ -135,13 +135,18 @@ This project demonstrates how historical sales data can be transformed into accu
 - **Synthetic Data Generation (for reproducibility)**  
   [`generate_sales_data.py`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/src/ingestion/generate_sales_data.py)
 
-### 📊 Results
-- Linear regression outperformed ARIMA on short-term demand forecasting
-- Forecasts captured seasonality and promotional effects
-- Demonstrated how forecast-driven planning can reduce overstock and stockouts
-- Models evaluated using **MAE, RMSE, and MAPE**
 
-### 📈 Outputs
+## 📊 Results and Summary
+
+- 📄 **[Model Performance Summary](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/docs/results_summary.md)**  
+  Detailed evaluation tables comparing Linear Regression and ARIMA performance.
+
+- Linear Regression outperformed ARIMA for short-term demand forecasting accuracy.
+- Feature-based models captured seasonality and promotional effects more effectively.
+- Forecast-driven insights demonstrate how inventory overstock and stockouts can be reduced.
+- Models were evaluated using **MAE, RMSE, and MAPE** to ensure robust performance comparison.
+
+### Outputs
 - **Actual vs Predicted Sales (Regression)**  
   [`actual_vs_pred.png`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/images/actual_vs_pred.png)
 
