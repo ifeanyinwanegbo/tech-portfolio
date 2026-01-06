@@ -110,9 +110,6 @@ Demonstrates real-world data engineering skills: modular design, automation, rep
 
 **End-to-end analytics project demonstrating demand forecasting and inventory optimization using time-series and regression models.**
 
-🔗 **Repository:**  
-https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization
-
 ### 🔍 Project Overview
 This project demonstrates how historical sales data can be transformed into accurate demand forecasts to support inventory planning and operational decision-making. The pipeline follows a modular, production-style analytics workflow from ingestion to forecasting and evaluation.
 
