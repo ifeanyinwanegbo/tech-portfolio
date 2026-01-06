@@ -124,7 +124,7 @@ This project demonstrates how historical sales data can be transformed into accu
 
 ### 💻 Code
 - **Pipeline Orchestration**  
-  [`run_pipeline.py`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/run_pipeline.py)
+  [`run_pipeline.py`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/src/run_pipeline.py)
 
 - **Sales Forecasting (Regression & ARIMA)**  
   [`forecast_sales.py`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/src/analytics/forecast_sales.py)
