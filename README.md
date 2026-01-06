@@ -111,20 +111,14 @@ Demonstrates real-world data engineering skills: modular design, automation, rep
 🔗 **Repository:**  
 https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization
 
----
-
 ### 🔍 Project Overview
 This project demonstrates how historical sales data can be transformed into accurate demand forecasts to support inventory planning and operational decision-making. The pipeline follows a modular, production-style analytics workflow from ingestion to forecasting and evaluation.
-
----
 
 ### 🏗️ Architecture
 - **Ingestion:** Load and validate raw sales data
 - **Processing:** Clean data and engineer time-based features (lags, rolling averages)
 - **Analytics:** Train and evaluate forecasting models
 - **Reporting:** Generate forecast plots and performance metrics
-
----
 
 ### 💻 Code
 - **Pipeline Orchestration**  
@@ -139,15 +133,11 @@ This project demonstrates how historical sales data can be transformed into accu
 - **Synthetic Data Generation (for reproducibility)**  
   [`generate_sales_data.py`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/src/ingestion/generate_sales_data.py)
 
----
-
 ### 📊 Results
 - Linear regression outperformed ARIMA on short-term demand forecasting
 - Forecasts captured seasonality and promotional effects
 - Demonstrated how forecast-driven planning can reduce overstock and stockouts
 - Models evaluated using **MAE, RMSE, and MAPE**
-
----
 
 ### 📈 Outputs
 - **Actual vs Predicted Sales (Regression)**  
@@ -155,8 +145,6 @@ This project demonstrates how historical sales data can be transformed into accu
 
 - **Sales Forecast (ARIMA Baseline)**  
   [`forecast_plot.png`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/images/forecast_plot.png)
-
----
 
 ### 🛠️ Tools & Technologies
 - Python
