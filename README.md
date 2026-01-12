@@ -132,7 +132,7 @@ This project demonstrates how historical sales data can be transformed into accu
 - **Synthetic Data Generation (for reproducibility)**  
   [`generate_sales_data.py`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/src/ingestion/generate_sales_data.py)
 
-##  Results and Summary
+## Results and Summary
 
 - 📄 **[Model Performance Summary](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/docs/results_summary.md)**  
   Detailed evaluation tables comparing Linear Regression and ARIMA performance.
@@ -176,13 +176,13 @@ This project demonstrates how customer behavioral and transactional data can be 
   [`run_pipeline.py`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/blob/main/run_pipeline.py)
 
 - **Churn Modeling & Evaluation**  
-  [`src/modeling/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/tree/main/src/modeling)
+  [`src/modeling/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/blob/main/src/modeling/train_model.py)
 
 - **Data Processing & Feature Engineering**  
-  [`src/processing/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/tree/main/src/processing)
+  [`src/processing/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/blob/main/src/processing/clean_features.py)
 
 - **Synthetic / Sample Data Handling**  
-  [`src/ingestion/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/tree/main/src/ingestion)
+  [`src/ingestion/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/blob/main/src/ingestion/load_churn_data.py)
 
 #### Results & Business Impact  
 - Achieved **~79% accuracy** and **~0.84 ROC-AUC** on churn prediction  
