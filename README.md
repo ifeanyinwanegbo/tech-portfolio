@@ -149,7 +149,7 @@ This project demonstrates how historical sales data can be transformed into accu
 - **Sales Forecast (ARIMA Baseline)**  
   [`forecast_plot.png`](https://github.com/ifeanyinwanegbo/sales-demand-forecasting-inventory-optimization/blob/main/images/forecast_plot.png)
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 - Python
 - Pandas, NumPy
 - scikit-learn (Linear Regression)
@@ -159,52 +159,50 @@ This project demonstrates how historical sales data can be transformed into accu
 
 ---
 
-## Planned & In-Progress Projects
-> *(Projects currently under development. Repositories will be added as they are completed.)*
+### Customer Revenue Risk & Churn Prediction  
+**End-to-end analytics project for identifying high-risk customers and estimating potential revenue loss using supervised machine learning.**
 
-### 🔹 **Machine Learning Classification System**  
-Built and evaluated predictive models for real-world decision-making.  
-**Skills:** Python (pandas, scikit-learn), model evaluation, data preprocessing.
+#### 📌 Project Overview  
+This project demonstrates how customer behavioral and transactional data can be transformed into churn predictions and revenue-risk insights to support retention strategy and business decision-making. The pipeline follows a modular, production-style analytics workflow from ingestion to modeling, evaluation, and reporting.
 
-### 🔹 **Cloud-Based Analytics Architecture**  
-Designed a scalable cloud architecture for analytics workloads.  
-**Skills:** Cloud services, data warehousing, dashboards, automation.
+#### 🏗 Architecture  
+- **Ingestion:** Load and validate customer-level data  
+- **Processing:** Clean data and engineer churn-relevant features  
+- **Analytics:** Train and evaluate a Logistic Regression churn model  
+- **Reporting:** Generate performance metrics and revenue risk summaries  
 
----
+#### Code  
+- **Pipeline Orchestration**  
+  [`run_pipeline.py`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/blob/main/run_pipeline.py)
 
-# 🛠️ Technical Skills
+- **Churn Modeling & Evaluation**  
+  [`src/modeling/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/tree/main/src/modeling)
 
-### **Programming & Data Tools**
-- Python, SQL, R  
-- Pandas, NumPy, Scikit-learn  
-- Jupyter Notebook, VS Code, Git/GitHub  
+- **Data Processing & Feature Engineering**  
+  [`src/processing/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/tree/main/src/processing)
 
-### **Data Engineering**
-- ETL/ELT Pipelines  
-- Data Modeling  
-- API Integration  
-- Automation & Orchestration  
-- Batch and Streaming Data  
+- **Synthetic / Sample Data Handling**  
+  [`src/ingestion/`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/tree/main/src/ingestion)
 
-# **Machine Learning**
-- Classification & Regression  
-- Feature Engineering  
-- Model Optimization  
-- Evaluation Metrics  
+#### Results & Business Impact  
+- Achieved **~79% accuracy** and **~0.84 ROC-AUC** on churn prediction  
+- Identified high-risk customers responsible for a disproportionate share of revenue loss  
+- Demonstrated how churn probability can be translated into **estimated revenue at risk**  
+- Outputs designed for downstream use in retention targeting and reporting  
 
-# **Cloud & Analytics**
-- Cloud Architecture (general)  
-- Data Warehousing Concepts  
-- Dashboarding & Reporting  
-- Storage, Compute, Deployment Concepts  
+#### Outputs  
+- **Model Performance Report:**  
+  [`model_report.txt`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/blob/main/reports/model_report.txt)
 
----
+- **Structured Metrics (JSON):**  
+  [`model_metrics.json`](https://github.com/ifeanyinwanegbo/customer-revenue-risk-churn-prediction/blob/main/reports/model_metrics.json)
 
-# 🎓 Certifications and Credentials   
-- **Amazon Web Services Solutions Architect – Professional**  
-- **Amazon Web Services Data Engineer – Associate**  
-- **Certified Analytics Professional (CAP)**
-- **Project Management Professional (PMP)**  
+#### 🛠 Tools & Technologies  
+- Python  
+- Pandas, NumPy  
+- scikit-learn (Logistic Regression)  
+- Machine Learning for Churn Analytics  
+- Business & Revenue Impact Modeling  
 
 ---
 
