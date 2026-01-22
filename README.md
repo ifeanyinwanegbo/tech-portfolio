@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Ifeanyi Martins Nwanegbo  
-# Data Engineer | Data Scientist | Analytics Professional  
 
-Welcome to my technical portfolio, a curated collection of the projects, systems, and tools I build across data engineering, data science, analytics, and machine learning. I am passionate about designing scalable pipelines, solving real-world problems with data, and building intelligent systems that create business impact.
+Welcome to my technical portfolio, a curated collection of data projects, systems, and tools I’ve built across analytics, data engineering, and data science. My work focuses on designing reliable data workflows, transforming raw data into analytics-ready datasets, and applying statistical and modeling techniques to generate actionable insights. Across these projects, I work end-to-end from data ingestion, cleaning, and feature engineering to analysis, forecasting, and visualization — with an emphasis on producing clear, decision-ready outputs. My goal is to deliver measurable business value through trend analysis, performance optimization, customer behavior insights, and data-driven recommendations that support product, growth, and operations teams.
 
 ---
 
 ## Featured Projects
 
-### 🔹Analytics Engineering – Supply Chain Cost Optimization (Python)
+### 🔹 Supply Chain Cost Optimization (Python)
 
 Designed and implemented an operations analytics model to determine optimal shipment quantities from two factories to three customer regions. The model minimizes total logistics and production cost under real-world constraints, enforcing exact demand fulfillment, factory capacity limits, non-negative flows, and nonlinear production cost functions using SciPy’s SLSQP algorithm.
 
