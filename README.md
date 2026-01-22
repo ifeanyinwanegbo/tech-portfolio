@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ifeanyi Martins Nwanegbo  
-# Data Engineer | Data Scientist | Cloud Engineer | Analytics Professional  
+# Data Engineer | Data Scientist | Analytics Professional  
 
-Welcome to my technical portfolio, a curated collection of the projects, systems, and tools I build across data engineering, data science, cloud computing, analytics, and machine learning. I am passionate about designing scalable pipelines, solving real-world problems with data, and building intelligent systems that create business impact.
+Welcome to my technical portfolio, a curated collection of the projects, systems, and tools I build across data engineering, data science, analytics, and machine learning. I am passionate about designing scalable pipelines, solving real-world problems with data, and building intelligent systems that create business impact.
 
 ---
 
