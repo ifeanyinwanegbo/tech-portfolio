@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ifeanyi Martins Nwanegbo  
 
-Welcome to my technical portfolio, a curated collection of data projects, systems, and tools I’ve built across analytics, data engineering, and data science. My work focuses on designing reliable data workflows, transforming raw data into analytics-ready datasets, and applying statistical and modeling techniques to generate actionable insights. Across these projects, I work end-to-end from data ingestion, cleaning, and feature engineering to analysis, forecasting, and visualization — with an emphasis on producing clear, decision-ready outputs. My goal is to deliver measurable business value through trend analysis, performance optimization, customer behavior insights, and data-driven recommendations that support product, growth, and operations teams.
+Welcome to my technical portfolio, a curated collection of data projects, systems, and tools I’ve built across analytics, data engineering, and data science. My work focuses on designing reliable data workflows, transforming raw data into analytics-ready datasets, and applying statistical and modeling techniques to generate actionable insights. Across these projects, I work end-to-end from data ingestion, cleaning, and feature engineering to analysis, forecasting, and visualization with an emphasis on producing clear, decision-ready outputs. My goal is to deliver measurable business value through trend analysis, performance optimization, customer behavior insights, and data-driven recommendations that support product, growth, and operations teams.
 
 ---
 
